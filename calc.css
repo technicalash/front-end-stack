@@ -1,0 +1,243 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: lightcoral;
+
+}
+h1{
+   text-align: center;
+   font-weight: 500;
+   font-family: cursive;
+   color: darkgreen;
+}
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.body{
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    padding: 2%;
+    width: 200px;
+    height: 420px;
+    background-color: orange;
+    border-radius: 5px;
+
+   
+}
+.screen{
+    padding-bottom: 5%;
+    width: 100%;
+    height: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    font-size: 150%;
+    text-align: right;
+}
+.btn_row1{
+    padding: 1%;
+    padding-top: 4%;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+ 
+    
+}
+.btn_row2{
+    padding: 1%;
+    padding-top: 4%;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 50%;
+}
+.btn_row3{
+    padding: 1%;
+    padding-top: 4%;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 50%;
+}
+.btn_row4{
+    padding: 1%;
+    padding-top: 4%;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 50%;
+}
+.btn_row5{
+    padding: 1%;
+    padding-top: 4%;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 50%;
+}
+
+#btn1{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn2{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn3{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn4{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn5{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn6{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn7{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn8{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn9{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn_add{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn0{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn_sub{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn_mul{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn_clr{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn_div {
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+}
+#btn_answr{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+
+}
+#btn_dec{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: large;
+    background-color: rgb(119, 190, 238);
+    color: white;
+    border: 2px solid rgb(228, 54, 54);
+
+}
