@@ -1,3 +1,3 @@
-Following is the explanation of what these terms (calc,list..) means in this repo
+Following is the explanation of what these terms (calc,list..) means in this repo <br>
 calc = calculator project codes are written in those files
 list = To-Do-List project codes  
